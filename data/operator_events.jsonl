@@ -1,0 +1,598 @@
+{"timestamp": "2026-06-26T04:11:00.410024Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:11:01.156125Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:11:01.365438Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T04:11:01.635123Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:11:02.966634Z", "command": "start", "status": "OK", "summary": "Server started PID=12680"}
+{"timestamp": "2026-06-26T04:11:03.850924Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:11:04.099100Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:11:04.343885Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:11:05.098722Z", "command": "start", "status": "OK", "summary": "Server started PID=12694"}
+{"timestamp": "2026-06-26T04:11:05.793966Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:11:07.379690Z", "command": "start", "status": "OK", "summary": "Server started PID=12696"}
+{"timestamp": "2026-06-26T04:11:08.101806Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:11:09.404319Z", "command": "start", "status": "OK", "summary": "Server started PID=12701"}
+{"timestamp": "2026-06-26T04:11:10.131392Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:11:11.391644Z", "command": "start", "status": "OK", "summary": "Server started PID=12708"}
+{"timestamp": "2026-06-26T04:11:11.967330Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T04:11:12.189503Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T04:11:12.391098Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:11:12.595042Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:11:12.800687Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:11:13.003963Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:11:13.302196Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T04:11:13.609312Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T04:11:13.808716Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T04:11:14.012055Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T04:11:14.208840Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T04:11:14.406120Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T04:11:14.748473Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T04:11:15.060275Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T04:11:22.687819Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:11:22.879594Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T04:11:33.951088Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:34.268232Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:34.585874Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:34.901568Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:35.240537Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:35.556840Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:35.878969Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:36.192889Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:36.508025Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:36.827996Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:37.138542Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:37.459004Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:37.790688Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:38.106135Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:11:38.455695Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (913 total)"}
+{"timestamp": "2026-06-26T04:12:17.901065Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:12:18.648691Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:12:18.846587Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T04:12:19.079663Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:12:20.333963Z", "command": "start", "status": "OK", "summary": "Server started PID=12856"}
+{"timestamp": "2026-06-26T04:12:21.132755Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:12:21.359931Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:12:21.597083Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:12:22.333391Z", "command": "start", "status": "OK", "summary": "Server started PID=12868"}
+{"timestamp": "2026-06-26T04:12:23.025574Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:12:24.595076Z", "command": "start", "status": "OK", "summary": "Server started PID=12871"}
+{"timestamp": "2026-06-26T04:12:25.300969Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:12:26.555993Z", "command": "start", "status": "OK", "summary": "Server started PID=12877"}
+{"timestamp": "2026-06-26T04:12:27.255566Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:12:28.510160Z", "command": "start", "status": "OK", "summary": "Server started PID=12880"}
+{"timestamp": "2026-06-26T04:12:29.149409Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T04:12:29.369976Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T04:12:29.589390Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:12:29.796488Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:12:30.010782Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:12:30.218358Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:12:30.533264Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T04:12:31.009026Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T04:12:31.203126Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T04:12:31.383939Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T04:12:31.562868Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T04:12:31.746686Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T04:12:32.110965Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T04:12:32.491498Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T04:12:40.308805Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:12:40.503610Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T04:12:52.674584Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:53.003136Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:53.336494Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:53.680156Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:54.002352Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:54.326763Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:54.655540Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:54.988752Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:55.316557Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:55.652035Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:55.987653Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:56.319186Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:56.665305Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:56.992081Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:12:57.351693Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (949 total)"}
+{"timestamp": "2026-06-26T04:13:43.563051Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:13:44.297083Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:13:44.491058Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T04:13:44.723594Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:13:45.962357Z", "command": "start", "status": "OK", "summary": "Server started PID=13047"}
+{"timestamp": "2026-06-26T04:13:46.827501Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:13:47.057062Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:13:47.290207Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:13:48.080414Z", "command": "start", "status": "OK", "summary": "Server started PID=13057"}
+{"timestamp": "2026-06-26T04:13:48.766102Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:13:50.328919Z", "command": "start", "status": "OK", "summary": "Server started PID=13061"}
+{"timestamp": "2026-06-26T04:13:51.013980Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:13:52.256026Z", "command": "start", "status": "OK", "summary": "Server started PID=13065"}
+{"timestamp": "2026-06-26T04:13:52.945718Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:13:54.196052Z", "command": "start", "status": "OK", "summary": "Server started PID=13070"}
+{"timestamp": "2026-06-26T04:13:54.779337Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T04:13:54.998615Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T04:13:55.199717Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:13:55.402405Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:13:55.609038Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:13:55.813430Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:13:56.132927Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T04:13:56.434052Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T04:13:56.633517Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T04:13:56.825341Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T04:13:57.017455Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T04:13:57.211360Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T04:13:57.534148Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T04:13:57.841119Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T04:14:05.755669Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:14:05.952595Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T04:14:18.288201Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:18.622766Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:18.950307Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:19.290689Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:19.632225Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:19.963431Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:20.296723Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:20.627046Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:20.948940Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:21.279408Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:21.606753Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:21.935381Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:22.257651Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:22.602991Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:14:22.959598Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (985 total)"}
+{"timestamp": "2026-06-26T04:21:52.927163Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:21:53.667207Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:21:53.851969Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T04:21:54.075268Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:21:55.304911Z", "command": "start", "status": "OK", "summary": "Server started PID=13815"}
+{"timestamp": "2026-06-26T04:21:56.158233Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:21:56.377819Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:21:56.607182Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:21:57.336338Z", "command": "start", "status": "OK", "summary": "Server started PID=13828"}
+{"timestamp": "2026-06-26T04:21:58.015205Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:21:59.592119Z", "command": "start", "status": "OK", "summary": "Server started PID=13848"}
+{"timestamp": "2026-06-26T04:22:00.296193Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:22:01.522675Z", "command": "start", "status": "OK", "summary": "Server started PID=13853"}
+{"timestamp": "2026-06-26T04:22:02.199298Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:22:03.419403Z", "command": "start", "status": "OK", "summary": "Server started PID=13856"}
+{"timestamp": "2026-06-26T04:22:03.974845Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T04:22:04.186443Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T04:22:04.379699Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:22:04.580766Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:22:04.773779Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:22:04.964353Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:22:05.264416Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T04:22:05.564632Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T04:22:05.753147Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T04:22:05.941929Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T04:22:06.128790Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T04:22:06.309722Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T04:22:06.637676Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T04:22:06.941353Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T04:22:15.090590Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:22:15.299817Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T04:22:28.195715Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:28.516790Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:28.850484Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:29.208406Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:29.575721Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:29.901244Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:30.221769Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:30.545985Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:30.871408Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:31.196175Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:31.518122Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:31.847501Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:32.169689Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:32.485162Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:22:32.843399Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1021 total)"}
+{"timestamp": "2026-06-26T04:29:06.868369Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:29:07.622025Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:29:07.821619Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T04:29:08.063772Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:29:09.314905Z", "command": "start", "status": "OK", "summary": "Server started PID=15278"}
+{"timestamp": "2026-06-26T04:29:10.208188Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:29:10.449981Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:29:10.683875Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:29:11.431007Z", "command": "start", "status": "OK", "summary": "Server started PID=15292"}
+{"timestamp": "2026-06-26T04:29:12.121912Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:29:13.691024Z", "command": "start", "status": "OK", "summary": "Server started PID=15294"}
+{"timestamp": "2026-06-26T04:29:14.386890Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:29:15.648585Z", "command": "start", "status": "OK", "summary": "Server started PID=15299"}
+{"timestamp": "2026-06-26T04:29:16.315055Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:29:17.559393Z", "command": "start", "status": "OK", "summary": "Server started PID=15303"}
+{"timestamp": "2026-06-26T04:29:18.202928Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T04:29:18.457273Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T04:29:18.666393Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:29:18.868807Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:29:19.075355Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:29:19.283140Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T04:29:19.620550Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T04:29:19.967938Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T04:29:20.197356Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T04:29:20.409979Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T04:29:20.628371Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T04:29:20.845300Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T04:29:21.211187Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T04:29:21.558675Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T04:29:30.344416Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T04:29:30.552961Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T04:29:44.064969Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:44.394817Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:44.731785Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:45.057120Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:45.389597Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:45.717156Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:46.038343Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:46.358447Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:46.696544Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:47.031071Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:47.355626Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:47.686453Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:48.010358Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:48.332979Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T04:29:48.704297Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1057 total)"}
+{"timestamp": "2026-06-26T15:48:08.903251Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T15:48:09.637735Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T15:48:09.834500Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T15:48:10.067065Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T15:48:11.305050Z", "command": "start", "status": "OK", "summary": "Server started PID=23094"}
+{"timestamp": "2026-06-26T15:48:12.160307Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T15:48:12.387323Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T15:48:12.617983Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T15:48:13.356815Z", "command": "start", "status": "OK", "summary": "Server started PID=23105"}
+{"timestamp": "2026-06-26T15:48:14.040468Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T15:48:15.629470Z", "command": "start", "status": "OK", "summary": "Server started PID=23110"}
+{"timestamp": "2026-06-26T15:48:16.309547Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T15:48:17.552951Z", "command": "start", "status": "OK", "summary": "Server started PID=23113"}
+{"timestamp": "2026-06-26T15:48:18.229828Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T15:48:19.464838Z", "command": "start", "status": "OK", "summary": "Server started PID=23118"}
+{"timestamp": "2026-06-26T15:48:20.036098Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T15:48:20.254500Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T15:48:20.452168Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T15:48:20.653712Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T15:48:20.861275Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T15:48:21.061952Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T15:48:21.378389Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T15:48:21.694155Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T15:48:21.887284Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T15:48:22.077659Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T15:48:22.266404Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T15:48:22.457058Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T15:48:22.785770Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T15:48:23.105614Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T15:48:31.589890Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T15:48:31.781591Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T15:48:45.318674Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:45.662421Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:45.995818Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:46.332667Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:46.666088Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:47.002153Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:47.328809Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:47.662634Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:47.998985Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:48.342045Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:48.687503Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:49.026389Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:49.372123Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:49.721952Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T15:48:50.123315Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1093 total)"}
+{"timestamp": "2026-06-26T16:09:19.513830Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T16:09:20.207790Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T16:09:20.358262Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T16:09:20.542193Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T16:09:21.742959Z", "command": "start", "status": "OK", "summary": "Server started PID=25702"}
+{"timestamp": "2026-06-26T16:09:22.524603Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T16:09:22.708350Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T16:09:22.901395Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T16:09:23.601245Z", "command": "start", "status": "OK", "summary": "Server started PID=25714"}
+{"timestamp": "2026-06-26T16:09:24.248983Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T16:09:25.817176Z", "command": "start", "status": "OK", "summary": "Server started PID=25716"}
+{"timestamp": "2026-06-26T16:09:26.465111Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T16:09:27.660380Z", "command": "start", "status": "OK", "summary": "Server started PID=25721"}
+{"timestamp": "2026-06-26T16:09:28.314498Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T16:09:29.518353Z", "command": "start", "status": "OK", "summary": "Server started PID=25725"}
+{"timestamp": "2026-06-26T16:09:29.977221Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T16:09:30.154928Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T16:09:30.312213Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T16:09:30.472422Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T16:09:30.634607Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T16:09:30.794962Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T16:09:31.053106Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T16:09:31.310925Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T16:09:31.464880Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T16:09:31.617306Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T16:09:31.768113Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T16:09:31.920242Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T16:09:32.191224Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T16:09:32.453654Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T16:09:39.834769Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T16:09:39.990000Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T16:09:52.816515Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:53.112591Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:53.406349Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:53.707159Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:54.002572Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:54.299869Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:54.596699Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:54.881492Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:55.195903Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:55.564517Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:55.857920Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:56.147781Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:56.453633Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:56.747269Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T16:09:57.067364Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1129 total)"}
+{"timestamp": "2026-06-26T18:33:04.967584Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:33:05.709854Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:33:05.900797Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T18:33:06.134942Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:33:07.369929Z", "command": "start", "status": "OK", "summary": "Server started PID=33177"}
+{"timestamp": "2026-06-26T18:33:08.229302Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:33:08.458573Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:33:08.709034Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:33:09.440489Z", "command": "start", "status": "OK", "summary": "Server started PID=33187"}
+{"timestamp": "2026-06-26T18:33:10.134003Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:33:11.705531Z", "command": "start", "status": "OK", "summary": "Server started PID=33210"}
+{"timestamp": "2026-06-26T18:33:12.387003Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:33:13.625847Z", "command": "start", "status": "OK", "summary": "Server started PID=33213"}
+{"timestamp": "2026-06-26T18:33:14.304234Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:33:15.553771Z", "command": "start", "status": "OK", "summary": "Server started PID=33218"}
+{"timestamp": "2026-06-26T18:33:16.116362Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T18:33:16.336828Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T18:33:16.532329Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T18:33:16.729218Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T18:33:16.928441Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T18:33:17.133151Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T18:33:17.453658Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T18:33:17.795571Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T18:33:18.003802Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T18:33:18.209071Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T18:33:18.405882Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T18:33:18.621538Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T18:33:18.995613Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T18:33:19.357094Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T18:33:28.481802Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:33:28.675300Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T18:33:43.241958Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:43.591983Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:43.973061Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:44.319836Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:44.667679Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:45.008481Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:45.358118Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:45.723488Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:46.095883Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:46.512029Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:46.846570Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:47.188111Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:47.523120Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:47.877576Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:33:48.259214Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1165 total)"}
+{"timestamp": "2026-06-26T18:45:06.346291Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:45:07.088263Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:45:07.274927Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T18:45:07.522182Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:45:08.758332Z", "command": "start", "status": "OK", "summary": "Server started PID=34328"}
+{"timestamp": "2026-06-26T18:45:09.599903Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:45:09.821080Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:45:10.044448Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:45:10.777406Z", "command": "start", "status": "OK", "summary": "Server started PID=34340"}
+{"timestamp": "2026-06-26T18:45:11.450563Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:45:13.017362Z", "command": "start", "status": "OK", "summary": "Server started PID=34343"}
+{"timestamp": "2026-06-26T18:45:13.690149Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:45:14.935820Z", "command": "start", "status": "OK", "summary": "Server started PID=34348"}
+{"timestamp": "2026-06-26T18:45:15.613490Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:45:16.843184Z", "command": "start", "status": "OK", "summary": "Server started PID=34351"}
+{"timestamp": "2026-06-26T18:45:17.410374Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T18:45:17.628315Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T18:45:17.822958Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T18:45:18.019885Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T18:45:18.214063Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T18:45:18.410203Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T18:45:18.740663Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T18:45:19.071499Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T18:45:19.261750Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T18:45:19.444699Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T18:45:19.629385Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T18:45:19.824718Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T18:45:20.165096Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T18:45:20.492751Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T18:45:29.494659Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:45:29.693473Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T18:45:44.502030Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:44.850498Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:45.203632Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:45.554833Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:45.901633Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:46.242901Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:46.583292Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:46.920878Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:47.277333Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:47.623712Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:47.970584Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:48.307814Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:48.664309Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:49.024095Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:45:49.401250Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1201 total)"}
+{"timestamp": "2026-06-26T18:46:53.773906Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:46:54.497487Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:46:54.687214Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T18:46:54.911678Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:46:56.154718Z", "command": "start", "status": "OK", "summary": "Server started PID=34557"}
+{"timestamp": "2026-06-26T18:46:57.006372Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:46:57.230102Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:46:57.456970Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:46:58.195035Z", "command": "start", "status": "OK", "summary": "Server started PID=34569"}
+{"timestamp": "2026-06-26T18:46:58.871777Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:47:00.441484Z", "command": "start", "status": "OK", "summary": "Server started PID=34573"}
+{"timestamp": "2026-06-26T18:47:01.138526Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:47:02.381978Z", "command": "start", "status": "OK", "summary": "Server started PID=34577"}
+{"timestamp": "2026-06-26T18:47:03.059701Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:47:04.293972Z", "command": "start", "status": "OK", "summary": "Server started PID=34580"}
+{"timestamp": "2026-06-26T18:47:04.865131Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T18:47:05.086998Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T18:47:05.282272Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T18:47:05.481700Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T18:47:05.675537Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T18:47:05.864102Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T18:47:06.191906Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T18:47:06.522987Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T18:47:06.713543Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T18:47:06.896811Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T18:47:07.085514Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T18:47:07.271862Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T18:47:07.603937Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T18:47:07.926803Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T18:47:17.067994Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T18:47:17.260557Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T18:47:32.577402Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:32.920857Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:33.278436Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:33.619581Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:33.968465Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:34.321157Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:34.671636Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:35.029683Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:35.380066Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:35.725499Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:36.075822Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:36.425666Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:36.785421Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:37.137398Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T18:47:37.523967Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1237 total)"}
+{"timestamp": "2026-06-26T19:16:21.262923Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:16:22.002512Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:16:22.200454Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T19:16:22.423484Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:16:23.684198Z", "command": "start", "status": "OK", "summary": "Server started PID=37174"}
+{"timestamp": "2026-06-26T19:16:24.560625Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:16:24.787858Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:16:25.023340Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:16:25.770359Z", "command": "start", "status": "OK", "summary": "Server started PID=37186"}
+{"timestamp": "2026-06-26T19:16:26.486466Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:16:28.054376Z", "command": "start", "status": "OK", "summary": "Server started PID=37207"}
+{"timestamp": "2026-06-26T19:16:28.740048Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:16:29.988847Z", "command": "start", "status": "OK", "summary": "Server started PID=37210"}
+{"timestamp": "2026-06-26T19:16:30.678670Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:16:31.929102Z", "command": "start", "status": "OK", "summary": "Server started PID=37215"}
+{"timestamp": "2026-06-26T19:16:32.524146Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T19:16:32.755907Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T19:16:32.961137Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T19:16:33.159442Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T19:16:33.367923Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T19:16:33.565422Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T19:16:33.903174Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T19:16:34.255424Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T19:16:34.450586Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T19:16:34.638752Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T19:16:34.826654Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T19:16:35.016278Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T19:16:35.372939Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T19:16:35.716518Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T19:16:45.570245Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:16:45.777061Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T19:17:02.135152Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:02.500519Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:02.870079Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:03.230840Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:03.592166Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:03.948050Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:04.308728Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:04.679858Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:05.036659Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:05.398520Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:05.753989Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:06.115281Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:06.481471Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:06.837016Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:17:07.245622Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1273 total)"}
+{"timestamp": "2026-06-26T19:40:54.812424Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:40:55.538919Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:40:55.729808Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T19:40:55.962241Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:40:57.216122Z", "command": "start", "status": "OK", "summary": "Server started PID=39707"}
+{"timestamp": "2026-06-26T19:40:58.064295Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:40:58.294079Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:40:58.517534Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:40:59.267690Z", "command": "start", "status": "OK", "summary": "Server started PID=39718"}
+{"timestamp": "2026-06-26T19:40:59.944275Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:41:01.520704Z", "command": "start", "status": "OK", "summary": "Server started PID=39722"}
+{"timestamp": "2026-06-26T19:41:02.204862Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:41:03.452310Z", "command": "start", "status": "OK", "summary": "Server started PID=39725"}
+{"timestamp": "2026-06-26T19:41:04.135134Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:41:05.372289Z", "command": "start", "status": "OK", "summary": "Server started PID=39731"}
+{"timestamp": "2026-06-26T19:41:05.935630Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T19:41:06.158755Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-26T19:41:06.358863Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T19:41:06.549351Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T19:41:06.739595Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T19:41:06.931852Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-26T19:41:07.267098Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T19:41:07.608776Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-26T19:41:07.797816Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T19:41:07.985931Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-26T19:41:08.172796Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T19:41:08.359741Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-26T19:41:08.707303Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T19:41:09.042481Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-26T19:41:18.642548Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-26T19:41:18.847668Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-26T19:41:35.784408Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:36.139891Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:36.504244Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:36.856226Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:37.222083Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:37.578679Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:37.931433Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:38.293783Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:38.654933Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:39.009334Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:39.366882Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:39.718274Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:40.074937Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:40.428569Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-26T19:41:40.827732Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1316 total)"}
+{"timestamp": "2026-06-27T00:17:46.983661Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-27T00:17:47.889867Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-27T00:17:48.360577Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-27T00:17:48.817865Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-27T00:17:50.274143Z", "command": "start", "status": "OK", "summary": "Server started PID=57525"}
+{"timestamp": "2026-06-27T00:17:51.523901Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-27T00:17:51.942248Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-27T00:17:52.332971Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-27T00:17:53.273212Z", "command": "start", "status": "OK", "summary": "Server started PID=57537"}
+{"timestamp": "2026-06-27T00:17:54.087843Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-27T00:17:55.738858Z", "command": "start", "status": "OK", "summary": "Server started PID=57552"}
+{"timestamp": "2026-06-27T00:17:56.549587Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-27T00:17:57.970857Z", "command": "start", "status": "OK", "summary": "Server started PID=57557"}
+{"timestamp": "2026-06-27T00:17:58.839472Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-27T00:18:00.290159Z", "command": "start", "status": "OK", "summary": "Server started PID=57562"}
+{"timestamp": "2026-06-27T00:18:01.298216Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-27T00:18:01.683215Z", "command": "health", "status": "OK", "summary": "Health endpoint checked"}
+{"timestamp": "2026-06-27T00:18:02.322263Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-27T00:18:02.749215Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-27T00:18:03.303731Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-27T00:18:03.718852Z", "command": "workers", "status": "OK", "summary": "Workers checked"}
+{"timestamp": "2026-06-27T00:18:04.334371Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-27T00:18:04.958431Z", "command": "proposals", "status": "OK", "summary": "Proposals checked"}
+{"timestamp": "2026-06-27T00:18:05.317747Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-27T00:18:05.696978Z", "command": "events", "status": "OK", "summary": "Events checked"}
+{"timestamp": "2026-06-27T00:18:06.141588Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-27T00:18:06.552975Z", "command": "state", "status": "OK", "summary": "State checked"}
+{"timestamp": "2026-06-27T00:18:07.336083Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-27T00:18:07.986201Z", "command": "submit", "status": "OK", "summary": "Submitted: Draft a content proposal."}
+{"timestamp": "2026-06-27T00:18:25.290743Z", "command": "stop", "status": "OK", "summary": "Server stopped"}
+{"timestamp": "2026-06-27T00:18:25.667565Z", "command": "status", "status": "OK", "summary": "Status check complete"}
+{"timestamp": "2026-06-27T00:18:56.407399Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:18:57.068482Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:18:57.745323Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:18:58.540139Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:18:59.407898Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:19:00.189633Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:19:00.869410Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:19:01.606570Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:19:02.406579Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:19:03.201186Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:19:04.082075Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:19:04.839779Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:19:05.574693Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:19:06.386997Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}
+{"timestamp": "2026-06-27T00:19:07.272532Z", "command": "queue", "status": "OK", "summary": "Displayed queue summary (1352 total)"}

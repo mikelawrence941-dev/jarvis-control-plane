@@ -1,0 +1,84 @@
+{"job_id": "job-73e8e7a44499", "approved": false, "reason": "Job not approved \u2014 status is 'validated'", "layer": "ECC", "timestamp": "2026-06-27T04:14:04.395188+00:00"}
+{"job_id": "job-932ea3622d67", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T04:15:01.737997+00:00"}
+{"job_id": "job-c472bdd192ca", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T04:15:01.742534+00:00"}
+{"job_id": "job-e94a7ebe2e87", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T04:15:01.746457+00:00"}
+{"job_id": "job-9071900753e5", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T04:15:01.751285+00:00"}
+{"job_id": "job-67ff5cb29559", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T04:15:01.757999+00:00"}
+{"job_id": "job-e8c570862446", "approved": false, "reason": "Backend source 'leadconnectorhq.com/v2/location/...' in UI job \u2014 forbidden", "layer": "FIREWALL", "timestamp": "2026-06-27T04:15:32.794787+00:00"}
+{"job_id": "job-580cada38b01", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T04:15:32.803215+00:00"}
+{"job_id": "job-1ff8517a0d1b", "approved": false, "reason": "Backend source 'leadconnectorhq.com/v2/location/...' in UI job \u2014 forbidden", "layer": "FIREWALL", "timestamp": "2026-06-27T04:16:07.662394+00:00"}
+{"job_id": "job-7835606a3ae0", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T04:16:07.668466+00:00"}
+{"job_id": "job-0a0b1b555286", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T04:16:07.685825+00:00"}
+{"job_id": "job-8b6bd0976563", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T04:25:21.782855+00:00"}
+{"job_id": "job-634d3b864fa5", "approved": false, "reason": "Backend source 'leadconnectorhq.com/v2/location/test/vibe/projects/' in UI job \u2014 forbidden", "layer": "FIREWALL", "timestamp": "2026-06-27T04:25:29.515320+00:00"}
+{"job_id": "job-f4b133f36b17", "approved": false, "reason": "Backend source 'leadconnectorhq.com/v2/location/test/vibe/projects/' in UI job \u2014 forbidden", "layer": "FIREWALL", "timestamp": "2026-06-27T04:31:50.663803+00:00"}
+{"job_id": "job-a9efdb55be31", "approved": false, "reason": "Job not approved \u2014 status is 'queued'", "layer": "ECC", "timestamp": "2026-06-27T04:56:50.035232+00:00"}
+{"job_id": "job-c81092a15263", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T04:57:21.652065+00:00"}
+{"job_id": "job-0ff788e2b4bb", "approved": false, "reason": "Backend source 'leadconnectorhq.com/v2/location/test/vibe/projects/' in UI job \u2014 forbidden", "layer": "FIREWALL", "timestamp": "2026-06-27T04:57:37.571192+00:00"}
+{"job_id": "job-912eee2636a7", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T05:12:44.431532+00:00"}
+{"job_id": "job-272c9114958f", "approved": false, "reason": "Backend source 'leadconnectorhq.com/v2/location/test/' in UI job \u2014 forbidden", "layer": "FIREWALL", "timestamp": "2026-06-27T05:12:44.445340+00:00"}
+{"job_id": "job-6a13a4615443", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T05:12:50.918491+00:00"}
+{"job_id": "job-a91799f9f007", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T05:13:45.828014+00:00"}
+{"job_id": "job-19f62db669b5", "approved": false, "reason": "Backend source 'leadconnectorhq.com/v2/location/test/' in UI job \u2014 forbidden", "layer": "FIREWALL", "timestamp": "2026-06-27T05:13:45.844800+00:00"}
+{"job_id": "job-4ee361033361", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T06:07:04.663095+00:00"}
+{"job_id": "job-23996ce78547", "approved": false, "reason": "Backend source 'leadconnectorhq.com/v2/location/test/' in UI job \u2014 forbidden", "layer": "FIREWALL", "timestamp": "2026-06-27T06:07:04.691142+00:00"}
+{"job_id": "job-6fa86f9f729d", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:07:10.706755+00:00"}
+{"job_id": "job-cae1277b488a", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:07:10.722659+00:00"}
+{"job_id": "job-5acd443fc0b1", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:07:10.741937+00:00"}
+{"job_id": "job-f986a19d2d02", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:07:10.769914+00:00"}
+{"job_id": "job-b3d7070141f7", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:08:02.812364+00:00"}
+{"job_id": "job-d9ae5b35086e", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:08:02.834650+00:00"}
+{"job_id": "job-2812ecce0927", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:08:02.850442+00:00"}
+{"job_id": "job-d79612582ad9", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:08:02.871631+00:00"}
+{"job_id": "job-f4dc5fbd3b5b", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:08:02.894250+00:00"}
+{"job_id": "job-ab49c7ad8ee7", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:08:18.227537+00:00"}
+{"job_id": "job-2327b2230b91", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:08:18.245533+00:00"}
+{"job_id": "job-085bfc2e931f", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:08:18.263688+00:00"}
+{"job_id": "job-c83329766bb2", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:08:18.284241+00:00"}
+{"job_id": "job-48820be5d89d", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:08:18.306447+00:00"}
+{"job_id": "job-3351d042ffd8", "approved": false, "reason": "Backend source 'leadconnectorhq.com/v2/location/test' in UI job \u2014 forbidden", "layer": "FIREWALL", "timestamp": "2026-06-27T07:08:18.326833+00:00"}
+{"job_id": "job-bd589997e12a", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:10:35.499795+00:00"}
+{"job_id": "job-3b49f591edf7", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:10:35.538467+00:00"}
+{"job_id": "job-53b671e7dd19", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:10:35.568229+00:00"}
+{"job_id": "job-5c5850d3ac4d", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:10:35.600986+00:00"}
+{"job_id": "job-69817c39ed1e", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:10:35.632418+00:00"}
+{"job_id": "job-4de0dc0ff6ca", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:11:38.775414+00:00"}
+{"job_id": "job-374fa0bcb820", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:11:38.800281+00:00"}
+{"job_id": "job-91aa8d2e7a42", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:11:38.818744+00:00"}
+{"job_id": "job-dc0fa21280c8", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:11:38.841309+00:00"}
+{"job_id": "job-8626997543a6", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:11:38.864666+00:00"}
+{"job_id": "job-028aca1499c4", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:11:38.897509+00:00"}
+{"job_id": "job-38b3cdce308f", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:12:24.551840+00:00"}
+{"job_id": "job-4e26cf643edd", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:12:24.583013+00:00"}
+{"job_id": "job-f1c5b7961aae", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:12:24.602932+00:00"}
+{"job_id": "job-87803998a79c", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:12:24.628470+00:00"}
+{"job_id": "job-32382bcada0d", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:12:24.658387+00:00"}
+{"job_id": "job-ddae335dfa54", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:12:24.687073+00:00"}
+{"job_id": "job-e802bbe24e70", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:12:49.778535+00:00"}
+{"job_id": "job-378f7f9f684d", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:12:49.801111+00:00"}
+{"job_id": "job-c3ed66b26a24", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:12:49.831588+00:00"}
+{"job_id": "job-4048a8841e26", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:12:49.854557+00:00"}
+{"job_id": "job-3159ed9319e0", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:12:49.882319+00:00"}
+{"job_id": "job-4ba4563a439e", "approved": true, "reason": "All ECC rules passed", "layer": "ECC", "timestamp": "2026-06-27T07:12:49.911354+00:00"}
+{"trace_id": "trace-47e968058099", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T08:56:35.509747+00:00"}
+{"trace_id": "trace-6d9b19eeb335", "decision": "blocked", "reason": "Target system not in allowed domains: Chrome port 9333", "violated_layer": "FIREWALL", "timestamp": "2026-06-27T08:56:36.033756+00:00"}
+{"trace_id": "trace-da87e97b6611", "decision": "blocked", "reason": "Target system not in allowed domains: GrowthHub backend", "violated_layer": "FIREWALL", "timestamp": "2026-06-27T08:56:36.540923+00:00"}
+{"trace_id": "trace-6e91d1a2d8c4", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T08:56:37.049273+00:00"}
+{"trace_id": "trace-e81af686f692", "decision": "blocked", "reason": "Target system matches blocked pattern: leadconnectorhq.com", "violated_layer": "FIREWALL", "timestamp": "2026-06-27T08:56:37.554575+00:00"}
+{"trace_id": "trace-e56ad7d3c3f0", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T08:59:06.366655+00:00"}
+{"trace_id": "trace-61ef9e1c7d8a", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T08:59:06.892145+00:00"}
+{"trace_id": "trace-f539c1d6de28", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T08:59:07.410617+00:00"}
+{"trace_id": "trace-d43732aae54e", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T08:59:07.925804+00:00"}
+{"trace_id": "trace-3332879486ae", "decision": "blocked", "reason": "Target system matches blocked pattern: leadconnectorhq.com", "violated_layer": "FIREWALL", "timestamp": "2026-06-27T08:59:08.439968+00:00"}
+{"trace_id": "trace-5d2549245732", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T08:59:41.455635+00:00"}
+{"trace_id": "trace-020b08af715c", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T08:59:41.471033+00:00"}
+{"trace_id": "trace-f36c69deff8c", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T09:00:51.796202+00:00"}
+{"trace_id": "trace-9caa3649c57f", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T09:00:52.307532+00:00"}
+{"trace_id": "trace-0ba00157b81d", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T09:00:52.826280+00:00"}
+{"trace_id": "trace-c29a7f0a5e46", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T09:00:53.341570+00:00"}
+{"trace_id": "trace-ca976a016f8a", "decision": "blocked", "reason": "Target system matches blocked pattern: leadconnectorhq.com", "violated_layer": "FIREWALL", "timestamp": "2026-06-27T09:00:53.850914+00:00"}
+{"trace_id": "trace-be57e8fbc225", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T09:11:46.252909+00:00"}
+{"trace_id": "trace-28a21070383f", "decision": "blocked", "reason": "Target system matches blocked pattern: leadconnectorhq.com", "violated_layer": "FIREWALL", "timestamp": "2026-06-27T09:11:46.266839+00:00"}
+{"trace_id": "trace-48d22d58ca33", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T09:11:46.271238+00:00"}
+{"trace_id": "trace-fe7dbf58043e", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T09:24:34.530602+00:00"}
+{"trace_id": "trace-d1a2b370738a", "decision": "approved", "reason": "All checks passed", "violated_layer": null, "timestamp": "2026-06-27T16:55:44.388550+00:00"}

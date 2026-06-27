@@ -1,0 +1,130 @@
+[
+  {
+    "job_id": "job-953e8390",
+    "trace_id": "trace-47e968058099",
+    "execution_type": "UI",
+    "status": "completed",
+    "worker": "ui",
+    "timestamp": "2026-06-27T08:56:35.510165+00:00"
+  },
+  {
+    "job_id": "job-6fde68dc",
+    "trace_id": "trace-6e91d1a2d8c4",
+    "execution_type": "AI",
+    "status": "completed",
+    "worker": "ai",
+    "timestamp": "2026-06-27T08:56:37.049607+00:00"
+  },
+  {
+    "job_id": "job-9f1a8e0f",
+    "trace_id": "trace-e56ad7d3c3f0",
+    "execution_type": "UI",
+    "status": "completed",
+    "worker": "ui",
+    "timestamp": "2026-06-27T08:59:06.367463+00:00"
+  },
+  {
+    "job_id": "job-ef22892e",
+    "trace_id": "trace-61ef9e1c7d8a",
+    "execution_type": "BROWSER",
+    "status": "completed",
+    "worker": "browser",
+    "timestamp": "2026-06-27T08:59:06.893506+00:00"
+  },
+  {
+    "job_id": "job-85c9f42e",
+    "trace_id": "trace-f539c1d6de28",
+    "execution_type": "API",
+    "status": "completed",
+    "worker": "api",
+    "timestamp": "2026-06-27T08:59:07.411332+00:00"
+  },
+  {
+    "job_id": "job-1f5ee585",
+    "trace_id": "trace-d43732aae54e",
+    "execution_type": "AI",
+    "status": "completed",
+    "worker": "ai",
+    "timestamp": "2026-06-27T08:59:07.926137+00:00"
+  },
+  {
+    "job_id": "job-acf12da6",
+    "trace_id": "trace-5d2549245732",
+    "execution_type": "UI",
+    "status": "completed",
+    "worker": "ui",
+    "timestamp": "2026-06-27T08:59:41.456970+00:00"
+  },
+  {
+    "job_id": "job-6f64c04c",
+    "trace_id": "trace-020b08af715c",
+    "execution_type": "BROWSER",
+    "status": "completed",
+    "worker": "browser",
+    "timestamp": "2026-06-27T08:59:41.471827+00:00"
+  },
+  {
+    "job_id": "job-fa0e3546",
+    "trace_id": "trace-f36c69deff8c",
+    "execution_type": "UI",
+    "status": "completed",
+    "worker": "ui",
+    "timestamp": "2026-06-27T09:00:51.796696+00:00"
+  },
+  {
+    "job_id": "job-8da8d39e",
+    "trace_id": "trace-9caa3649c57f",
+    "execution_type": "BROWSER",
+    "status": "completed",
+    "worker": "browser",
+    "timestamp": "2026-06-27T09:00:52.309222+00:00"
+  },
+  {
+    "job_id": "job-8a5d38b4",
+    "trace_id": "trace-0ba00157b81d",
+    "execution_type": "API",
+    "status": "completed",
+    "worker": "api",
+    "timestamp": "2026-06-27T09:00:52.826804+00:00"
+  },
+  {
+    "job_id": "job-7d269199",
+    "trace_id": "trace-c29a7f0a5e46",
+    "execution_type": "AI",
+    "status": "completed",
+    "worker": "ai",
+    "timestamp": "2026-06-27T09:00:53.342014+00:00"
+  },
+  {
+    "job_id": "job-2716945e",
+    "trace_id": "trace-be57e8fbc225",
+    "execution_type": "UI",
+    "status": "completed",
+    "worker": "ui",
+    "timestamp": "2026-06-27T09:11:46.254686+00:00"
+  },
+  {
+    "job_id": "job-ae294e10",
+    "trace_id": "trace-48d22d58ca33",
+    "execution_type": "BROWSER",
+    "status": "completed",
+    "worker": "browser",
+    "timestamp": "2026-06-27T09:11:46.272660+00:00"
+  },
+  {
+    "job_id": "job-1bd7a6c8",
+    "trace_id": "trace-fe7dbf58043e",
+    "execution_type": "UI",
+    "status": "completed",
+    "worker": "ui",
+    "timestamp": "2026-06-27T09:24:34.531117+00:00"
+  },
+  {
+    "job_id": "job-3804335b",
+    "trace_id": "trace-d1a2b370738a",
+    "execution_type": "AI",
+    "worker": "ai",
+    "status": "completed",
+    "timestamp": "2026-06-27T16:55:44.389240+00:00"
+  }
+]

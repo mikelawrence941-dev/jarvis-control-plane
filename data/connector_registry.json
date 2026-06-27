@@ -1,0 +1,51 @@
+{
+  "registry_version": "1.0.0",
+  "connectors": {
+    "local_file_connector": {
+      "class": "LocalFileConnector",
+      "status": "enabled_local_only",
+      "safety_approved": true
+    },
+    "mock_email_connector": {
+      "class": "MockEmailConnector",
+      "status": "mock_only",
+      "safety_approved": true
+    },
+    "mock_calendar_connector": {
+      "class": "MockCalendarConnector",
+      "status": "mock_only",
+      "safety_approved": true
+    },
+    "mock_crm_connector": {
+      "class": "MockCRMConnector",
+      "status": "mock_only",
+      "safety_approved": true
+    },
+    "mock_growthhub_connector": {
+      "class": "MockGrowthHubConnector",
+      "status": "mock_only_disabled",
+      "safety_approved": true
+    },
+    "live_growthhub_connector": {
+      "class": "N/A (disabled)",
+      "status": "disabled",
+      "safety_approved": false,
+      "note": "Disabled - no live GrowthHub integration permitted"
+    },
+    "live_browser_connector": {
+      "class": "N/A (disabled)",
+      "status": "disabled",
+      "safety_approved": false,
+      "note": "Disabled - no browser automation permitted"
+    }
+  },
+  "global_safety": {
+    "external_api_calls": false,
+    "credentials_required": false,
+    "live_writes": false,
+    "browser_enabled": false,
+    "growthhub_live": false,
+    "all_local_mock": true,
+    "permission_scopes_required": true
+  }
+}

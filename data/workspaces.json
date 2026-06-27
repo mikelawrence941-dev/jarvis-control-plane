@@ -1,0 +1,54 @@
+{
+  "workspaces": {
+    "QAS_INTERNAL": {
+      "workspace_id": "QAS_INTERNAL",
+      "name": "QAS Internal",
+      "description": "Default Q&A internal workspace for LifePilot operations.",
+      "permissions": {
+        "read": true,
+        "write": true,
+        "execute": false,
+        "admin": false,
+        "delete": false
+      },
+      "safety_profile": {
+        "external_api_calls": false,
+        "external_connectors": false,
+        "growthhub_enabled": false,
+        "browser_enabled": false,
+        "profile7_enabled": false,
+        "allow_network": false,
+        "local_only": true
+      },
+      "external_connector_enabled": false,
+      "created_at": "local",
+      "status": "active"
+    },
+    "test_ws": {
+      "workspace_id": "test_ws",
+      "name": "Test Workspace",
+      "workspace_name": "Test Workspace",
+      "description": "Default workspace",
+      "permissions": {
+        "read": true,
+        "write": true,
+        "execute": false,
+        "admin": false,
+        "delete": false
+      },
+      "safety_profile": {
+        "external_api_calls": false,
+        "external_connectors": false,
+        "growthhub_enabled": false,
+        "browser_enabled": false,
+        "profile7_enabled": false,
+        "allow_network": false,
+        "local_only": true
+      },
+      "external_connector_enabled": false,
+      "created_at": "local",
+      "status": "active",
+      "enabled_connectors": []
+    }
+  }
+}
